@@ -1,4 +1,4 @@
-#Gdrice Sync App
+#Gdrive Sync App
 
 An app that syncs a folder on google drive with a local folder on the system. Sync is one-way, from local folder to the sync folder on google drive(Keeping in mind the limited storage on google drive). Lets you sync (adds new file in local folder to google drive folder and deletes the file from google drive folder that are not present in local folder anymore at once)any number of file and any format file from local folder to google drive on a click of a button.
 
